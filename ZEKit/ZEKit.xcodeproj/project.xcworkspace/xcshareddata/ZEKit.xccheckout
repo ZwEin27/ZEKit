@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C651033-223F-4A7B-9739-A4D8A520EB67</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZEKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>86C93729-07FB-4290-AD34-FE8D14BA41B9</key>
+		<string>https://github.com/ZwEin27/ZEKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZEKit/ZEKit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>86C93729-07FB-4290-AD34-FE8D14BA41B9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ZwEin27/ZEKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>86C93729-07FB-4290-AD34-FE8D14BA41B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>86C93729-07FB-4290-AD34-FE8D14BA41B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZEKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
